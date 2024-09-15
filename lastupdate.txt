@@ -1,0 +1,5 @@
+UPDATE v7.0.8
+-Fix punto entrada / salida servicio mecánicos Roxwood
+-Fix sirenas + nuevas texturas y objetos pack coches policía
+-Añadido garaje en universidad
+-Añadido ayuntamiento en /negocios
